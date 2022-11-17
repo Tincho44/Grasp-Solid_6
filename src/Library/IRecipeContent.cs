@@ -7,3 +7,5 @@ namespace Full_GRASP_And_SOLID
          string GetTextToPrint();
     }
 }
+
+// Esta interfaz lo que hace es imprimir un string basicamente 

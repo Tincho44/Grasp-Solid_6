@@ -19,3 +19,5 @@ namespace Full_GRASP_And_SOLID
         public double UnitCost { get; set; }
     }
 }
+
+// Esta clase tiene la descripcion y el costo unitario 
